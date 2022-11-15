@@ -1,5 +1,19 @@
+import br.com.herique.Celular.Chamada;
+import br.com.herique.Celular.Contatos;
+import br.com.herique.Celular.LigaDesliga;
+
+/**
+* @author herique.oliveira
+* @version 1.0
+*/
+
 public class Celular {
-    public static void main(String[] args){
+    /**
+     *
+     * @param args
+     */
+    public static void main(String args [] ){
+
         LigaDesliga ligaDesliga = new LigaDesliga();
         ligaDesliga.setLiga("Bem vindo!");
         Chamada chamada = new Chamada();
