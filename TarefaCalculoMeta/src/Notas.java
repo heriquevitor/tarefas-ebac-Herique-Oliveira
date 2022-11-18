@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
 public class Notas {
-    public static void main(String args [] ) {
+    public static void main(String[] args) {
         MediaNotas();
     }
 
-        private static void MediaNotas(){
+    private static void MediaNotas(){
         float nota1;
         float nota2;
         float nota3;
