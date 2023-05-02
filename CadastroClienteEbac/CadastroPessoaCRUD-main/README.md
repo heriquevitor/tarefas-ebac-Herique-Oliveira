@@ -1,5 +1,5 @@
 # CadastroPessoaCRUD
 
-Projeto para guardar informações no memoria de um cadastro de cliente
+Projeto cadastro de Cliente - Criando um exemplo de cadastro (CRUD) na memória
 
 
